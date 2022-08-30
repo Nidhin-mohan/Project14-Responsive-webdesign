@@ -7,8 +7,8 @@ In this project I have tried keep the project responsive for 480px screen . and 
 
 ## Desktop View
 
-![image](/Screenshot%20from%202022-08-28%2007-49-29.png)
+![image](/14.png)
 
 ## Mobile View
 
-![image](/Project-13.png)
+![image](/Project-14.png)
